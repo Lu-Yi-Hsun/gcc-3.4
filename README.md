@@ -6,7 +6,7 @@ Source from http://old-releases.ubuntu.com/ubuntu/pool/universe/g/gcc-3.4/
 install
 
 ```bash
-sudo pacman -U gcc-3.4-base-3.4.6-1-x86_64.pkg.tar.xz gcc-3.4-3.4.6-1-x86_64.pkg.tar.xz g++-3.4-3.4.6-1-x86_64.pkg.tar.xz cpp-3.4-3.4.6-1-x86_64.pkg.tar.xz libstdc++6-dev-3.4.6-1-x86_64.pkg.tar.xz
+sudo pacman -U *.pkg.tar.xz
 ```
 
 uninstall 
