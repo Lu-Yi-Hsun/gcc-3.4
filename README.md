@@ -1,6 +1,8 @@
 # gcc-3.4
 install gcc 3.4 for archlinux
 
+Source from http://old-releases.ubuntu.com/ubuntu/pool/universe/g/gcc-3.4/
+
 install
 
 ```bash
